@@ -27,7 +27,7 @@ Describe where your project is, how you could use Google’s help in the endeavo
 
 **How Google could help us achieve the goal :**  
 • **Assigning experienced mentor for the retailer project**   
-• **Free API Token to train ML models through using Google APIs **  
+• **Free API Token to train ML models through using Google APIs**  
 • **Helping us to reach a wide audience**  
 • **DataSet about retail platform (if possible)**  
 <br/>
@@ -35,6 +35,7 @@ Describe where your project is, how you could use Google’s help in the endeavo
 **Timeline:**
   
 **December 2019** 
+
 >Analysis of Google ML Solutions
 >Research and Learning
 
