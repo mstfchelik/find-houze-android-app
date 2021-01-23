@@ -19,7 +19,7 @@ Describe where your project is, how you could use Google’s help in the endeavo
 
 **The current status of the project
 
-*Currently, The website of the platform has been finalized with a few minor defects. But at mobile side, I have only been able to create the login and registration pages. The mobile app still didn’t redesign based on collecting data for ML models. Firstly, I will try to make some researches what is the major inputs for user to decide their dream house. Then, I will search some datasets from retail industry that will help house suggestion mechanism. Based on model and user behavior, the API of project will be renewed. You can reach the website platform on line by clicking http://findhouze.com link. Also, you can have main of the project idea http://findhouze.com/how-it-works*  
+*Currently, The website of the platform has been finalized with a few minor defects. But at mobile side, I have only been able to create the login and registration pages. The mobile app still didn’t redesign based on collecting data for ML models. Firstly, I will try to make some researches what is the major inputs for user to decide their dream house. Then, I will search some datasets from retail industry that will help house suggestion mechanism. Based on model and user behavior, the API of project will be renewed. You can reach the website platform on line by clicking http://findhouze.com link. Also, you can have main of the project idea http://findhouze.com/how-it-works link. The project has been developed by <a href="http://yazilimdersi.info">Yazılım Dersi</a>*  
 
 ![Image of FindHouze Project](https://github.com/mstfcelik/find-houze-android-app/blob/master/screenshots-of-findhouze-android-app/find-house-homepage.png)
 
